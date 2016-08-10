@@ -1,0 +1,93 @@
+[18-Apr-2015 07:37:46 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 07:48:46 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 07:48:51 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 07:48:51 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/my_orders.php on line 10
+[18-Apr-2015 07:48:54 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 07:48:54 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/edit_account.php on line 10
+[18-Apr-2015 08:00:14 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:09:56 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:24:49 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/my_account.php on line 353
+[18-Apr-2015 08:26:26 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:29:09 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:30:19 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:31:03 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 08:37:01 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/theco560/public_html/customer/my_account.php on line 4
+[18-Apr-2015 08:37:11 America/New_York] PHP Parse error:  syntax error, unexpected '!' in /home/theco560/public_html/customer/my_account.php on line 4
+[18-Apr-2015 08:37:58 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/theco560/public_html/customer/my_account.php on line 3
+[18-Apr-2015 08:38:02 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/theco560/public_html/customer/my_account.php on line 3
+[18-Apr-2015 08:38:15 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/theco560/public_html/customer/my_account.php on line 3
+[18-Apr-2015 08:38:46 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/theco560/public_html/customer/my_account.php on line 3
+[18-Apr-2015 09:00:40 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:00:48 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:00:48 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/edit_account.php on line 10
+[18-Apr-2015 09:00:52 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:12:52 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/theco560/public_html/customer/my_account.php on line 5
+[18-Apr-2015 09:13:19 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/theco560/public_html/customer/my_account.php on line 5
+[18-Apr-2015 09:13:26 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/theco560/public_html/customer/my_account.php on line 5
+[18-Apr-2015 09:17:30 America/New_York] PHP Parse error:  syntax error, unexpected '<' in /home/theco560/public_html/customer/my_account.php on line 15
+[18-Apr-2015 09:20:41 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:20:49 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:22:26 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:22:31 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:23:49 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:23:59 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:24 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:25 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:30 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:31 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:34 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:35 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:38 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:39 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:50 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:25:51 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:26:53 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:27:07 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:27:45 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:28:04 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:29:10 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:30:05 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:30:33 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 09:56:17 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:22:24 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:28:21 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:31:02 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:31:26 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:33:35 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[18-Apr-2015 10:35:36 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[19-Apr-2015 15:01:25 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 147
+[19-Apr-2015 15:02:47 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 147
+[19-Apr-2015 15:03:08 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 147
+[19-Apr-2015 15:04:03 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 150
+[19-Apr-2015 15:04:11 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 150
+[19-Apr-2015 15:05:07 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 151
+[19-Apr-2015 15:05:18 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 151
+[19-Apr-2015 15:06:24 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 151
+[19-Apr-2015 15:06:34 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/theco560/public_html/customer/confirm.php on line 151
+[19-Apr-2015 15:08:15 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:08:15 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/theco560/public_html/customer/confirm.php on line 99
+[19-Apr-2015 15:08:15 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/theco560/public_html/customer/confirm.php on line 102
+[19-Apr-2015 15:08:59 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:08:59 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/theco560/public_html/customer/confirm.php on line 99
+[19-Apr-2015 15:08:59 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/theco560/public_html/customer/confirm.php on line 102
+[19-Apr-2015 15:09:45 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:09:45 America/New_York] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/theco560/public_html/customer/confirm.php on line 99
+[19-Apr-2015 15:09:45 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/theco560/public_html/customer/confirm.php on line 102
+[19-Apr-2015 15:11:29 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:11:29 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/theco560/public_html/customer/confirm.php on line 102
+[19-Apr-2015 15:13:14 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:13:23 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 98
+[19-Apr-2015 15:23:52 America/New_York] PHP Notice:  Undefined variable: p_price in /home/theco560/public_html/customer/confirm.php on line 101
+[19-Apr-2015 15:23:52 America/New_York] PHP Notice:  Undefined variable: invoice_no in /home/theco560/public_html/customer/confirm.php on line 104
+[19-Apr-2015 15:23:52 America/New_York] PHP Notice:  Undefined variable: rowcount in /home/theco560/public_html/customer/confirm.php on line 106
+[19-Apr-2015 15:27:14 America/New_York] PHP Notice:  Undefined variable: p_price in /home/theco560/public_html/customer/confirm.php on line 101
+[19-Apr-2015 15:28:15 America/New_York] PHP Notice:  Undefined variable: p_price in /home/theco560/public_html/customer/confirm.php on line 101
+[21-Apr-2015 09:00:56 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[21-Apr-2015 19:38:09 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[21-Apr-2015 19:38:29 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[21-Apr-2015 19:38:29 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[22-Apr-2015 11:21:27 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[22-Apr-2015 11:22:00 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[22-Apr-2015 14:13:41 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[22-Apr-2015 18:07:13 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
+[22-Apr-2015 19:20:48 America/New_York] PHP Notice:  Undefined index: customer_email in /home/theco560/public_html/customer/functions/functions.php on line 28
