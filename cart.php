@@ -39,8 +39,8 @@
 						<div class="col-sm-6">
 							<div class="contactinfo">
 								<ul class="nav nav-pills">
-									<li><a href="#"><i class="fa fa-phone"></i> +2349039933771 </a></li>
-									<li><a href="#"><i class="fa fa-envelope"></i> kingstonfortune@gmail.com</a></li>
+									<li><a href="#"><i class="fa fa-phone"></i> +1234567890 </a></li>
+									<li><a href="#"><i class="fa fa-envelope"></i> chun@github.com</a></li>
 								</ul>
 							</div>
 						</div>
